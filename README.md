@@ -1,16 +1,27 @@
-### Hi there 👋
+# Full stack Developer
 
-<!--
-**Josphat205/Josphat205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Josphat Kiploman! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, Redux, Ruby, Ruby on Rails, JavaScript, PHP, Laravel, APIs and MySQl. 
+## Other Common Github Profile Sections
+👩‍💻 I'm currently a student at Microverse
+
+🧠 I'm currently learning Advanced Javascript
+
+💬 Ask me more about my skills on the comment or reach me on my social links below
+
+📫 How to reach me: hit my social media links below
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Josphat37023781?t=HI2iQKGv577YYshyxv0s7w&s=09)
+
+
+## 🛠 Skills
+Javascript, React and Redux, Ruby, Ruby on Rails, PHP, Laravel, MYSQL.
+
