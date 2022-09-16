@@ -7,9 +7,9 @@
 ## 🚀 About Me
 I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, Redux, Ruby, Ruby on Rails, JavaScript, PHP, Laravel, APIs and MySQl. 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently a student at Microverse
+👩‍💻 I'm currently a Junior software Developer
 
-🧠 I'm currently learning Advanced Javascript
+🧠 I'm currently learning Advanced React and Ruby on Rails
 
 💬 Ask me more about my skills on the comment or reach me on my social links below
 
@@ -22,6 +22,13 @@ I'm a software developer who is passionate about making contributing to open-sou
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Josphat37023781?t=HI2iQKGv577YYshyxv0s7w&s=09)
 
 
-## 🛠 Skills
-Javascript, React and Redux, Ruby, Ruby on Rails, PHP, Laravel, MYSQL.
+## 🛠 Tech Stack
+
+**Client:** React, Redux, TailwindCSS, Javascript, Bootstrap
+
+**Server:** (Node, Express, Serialize), (Ruby , Ruby on Rails), PHP
+
+**Database:** SQL, MYSQL, PostgresSQL
+
+**Testing:**  Jest, Rspec
 
