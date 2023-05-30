@@ -6,8 +6,8 @@ As a software developer, I am dedicated to increasing the accessibility of open 
 💬 Ask me anything about HTML, CSS, JavaScript, Reactjs, Express, Node, Redux, Ruby, Ruby on Rails, Tailwindcss and other Web technologies.
 
 ## 🔗 Links
-[![portfolio](https://loman-portfolio.netlify.app/)]()
-[![linkedin](https://www.linkedin.com/in/josphat205/)]()
+[portfolio](https://loman-portfolio.netlify.app/)()
+[linkedin](https://www.linkedin.com/in/josphat205/)()
 
 
 ## 🛠 Tech Stack
