@@ -17,9 +17,8 @@ I'm a software developer who is passionate about making contributing to open-sou
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josphat-kiploman-797430236/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Josphat37023781?t=HI2iQKGv577YYshyxv0s7w&s=09)
+[![portfolio]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://loman-portfolio.netlify.app/))]()
+[![linkedin]([https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josphat-kiploman-797430236/](https://www.linkedin.com/in/josphat205/))
 
 
 ## 🛠 Tech Stack
